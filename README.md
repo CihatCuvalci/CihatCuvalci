@@ -9,8 +9,7 @@
 ---
 
 [<img align="left" alt="Cihat Çuvalcı | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cihatcuvalci/)
-
-- 
+ 
 
 <!---
 CihatCuvalci/CihatCuvalci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
