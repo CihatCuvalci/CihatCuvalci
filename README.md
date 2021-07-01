@@ -2,7 +2,6 @@
       I'm a material and metallurgical engineer who is friendly, punctual and well communicated with people. 
       Nowadays, i started to improve myself in the field of software development as a personal preference
 - 👀 I’m currently working on building my software career
-- 🌱 I’m currently learning SQL,HTML5,CSS3,Python
 
 
 ### Connect with me :
