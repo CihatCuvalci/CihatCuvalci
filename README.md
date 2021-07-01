@@ -1,6 +1,3 @@
--     Hi, I’m Cihat 👋 
-      I'm a material and metallurgical engineer who is friendly, punctual and well communicated with people. 
-      Nowadays, i started to improve myself in the field of software development as a personal preference
  ## Hi, I’m Cihat 👋
  I'm a material and metallurgical engineer who is friendly, punctual and well communicated with people. 
  Nowadays, i started to improve myself in the field of software development as a personal preference
